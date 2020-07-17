@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2011</b:Year>
+        <b:Volume>4</b:Volume>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Cochrane handbook for systematic reviews of interventions</b:Title>
+        <b:Tag>higgins2011cochrane</b:Tag>
+        <b:Publisher>John Wiley &amp; Sons</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Higgins</b:Last>
+                        <b:Middle>P. T.</b:Middle>
+                        <b:First>Julian</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Green</b:Last>
+                        <b:First>Sally</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2004</b:Year>
+        <b:Volume>32</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>The Unified Medical Language System (UMLS): integrating biomedical terminology</b:Title>
+        <b:BIBTEX_Abstract> The Unified Medical Language System ( http://umlsks.nlm.nih.gov ) is a repository of biomedical vocabularies developed by the US National Library of Medicine. The UMLS integrates over 2 million names for some 900 000 concepts from more than 60 families of biomedical vocabularies, as well as 12 million relations among these concepts. Vocabularies integrated in the UMLS Metathesaurus include the NCBI taxonomy, Gene Ontology, the Medical Subject Headings (MeSH), OMIM and the Digital Anatomist Symbolic Knowledge Base. UMLS concepts are not only inter‐related, but may also be linked to external resources such as GenBank. In addition to data, the UMLS includes tools for customizing the Metathesaurus (MetamorphoSys), for generating lexical variants of concept names (lvg) and for extracting UMLS concepts from text (MetaMap). The UMLS knowledge sources are updated quarterly. All vocabularies are available at no fee for research purposes within an institution, but UMLS users are required to sign a license agreement. The UMLS knowledge sources are distributed on CD‐ROM and by FTP. </b:BIBTEX_Abstract>
+        <b:Tag>10.1093/nar/gkh061</b:Tag>
+        <b:URL>https://doi.org/10.1093/nar/gkh061</b:URL>
+        <b:DOI>10.1093/nar/gkh061</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bodenreider</b:Last>
+                        <b:First>Olivier</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>D267-D270</b:Pages>
+        <b:Month>1</b:Month>
+        <b:JournalName>Nucleic Acids Research</b:JournalName>
+        <b:Number>suppl\_1</b:Number>
+        <b:StandardNumber> ISSN: 0305-1048</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:Volume>4</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Automating data extraction in systematic reviews: a systematic review</b:Title>
+        <b:Tag>jonnalagadda2015automating</b:Tag>
+        <b:Publisher>BioMed Central</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Jonnalagadda</b:Last>
+                        <b:Middle>R.</b:Middle>
+                        <b:First>Siddhartha</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Goyal</b:Last>
+                        <b:First>Pawan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Huffman</b:Last>
+                        <b:Middle>D.</b:Middle>
+                        <b:First>Mark</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>78</b:Pages>
+        <b:JournalName>Systematic reviews</b:JournalName>
+        <b:Number>1</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:Volume>45</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Machine learning to assist risk-of-bias assessments in systematic reviews</b:Title>
+        <b:BIBTEX_Abstract>Background: Risk-of-bias assessments are now a standard component of systematic reviews. At present, reviewers need to manually identify relevant parts of research articles for a set of methodological elements that affect the risk of bias, in order to make a risk-of-bias judgement for each of these elements. We investigate the use of text mining methods to automate risk-of-bias assessments in systematic reviews. We aim to identify relevant sentences within the text of included articles, to rank articles by risk of bias and to reduce the number of risk-of-bias assessments that the reviewers need to perform by hand. Methods: We use supervised machine learning to train two types of models, for each of the three risk-of-bias properties of sequence generation, allocation concealment and blinding. The first model predicts whether a sentence in a research article contains relevant information. The second model predicts a risk-of-bias value for each research article. We use logistic regression, where each independent variable is the frequency of a word in a sentence or article, respectively. Results: We found that sentences can be successfully ranked by relevance with area under the receiver operating characteristic (ROC) curve (AUC) 
+&amp;gt; 0.98. Articles can be ranked by risk of bias with AUC 
+&amp;gt; 0.72. We estimate that more than 33
+% of articles can be assessed by just one reviewer, where two reviewers are normally required. Conclusions: We show that text mining can be used to assist risk-of-bias assessments. </b:BIBTEX_Abstract>
+        <b:Tag>10.1093/ije/dyv306</b:Tag>
+        <b:URL>https://doi.org/10.1093/ije/dyv306</b:URL>
+        <b:DOI>10.1093/ije/dyv306</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Millard</b:Last>
+                        <b:Middle>A. C.</b:Middle>
+                        <b:First>Louise</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Flach</b:Last>
+                        <b:Middle>A.</b:Middle>
+                        <b:First>Peter</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Higgins</b:Last>
+                        <b:Middle>P. T.</b:Middle>
+                        <b:First>Julian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>266-277</b:Pages>
+        <b:Month>12</b:Month>
+        <b:JournalName>International Journal of Epidemiology</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 0300-5771</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>The SIDER database of drugs and side effects</b:Title>
+        <b:BIBTEX_Abstract>Unwanted side effects of drugs are a burden on patients and a severe impediment in the development of new drugs. At the same time, adverse drug reactions (ADRs) recorded during clinical trials are an important source of human phenotypic data. It is therefore essential to combine data on drugs, targets and side effects into a more complete picture of the therapeutic mechanism of actions of drugs and the ways in which they cause adverse reactions. To this end, we have created the SIDER (‘Side Effect Resource’, http://sideeffects.embl.de) database of drugs and ADRs. The current release, SIDER 4, contains data on 1430 drugs, 5880 ADRs and 140 064 drug–ADR pairs, which is an increase of 40% compared to the previous version. For more fine-grained analyses, we extracted the frequency with which side effects occur from the package inserts. This information is available for 39% of drug–ADR pairs, 19% of which can be compared to the frequency under placebo treatment. SIDER furthermore contains a data set of drug indications, extracted from the package inserts using Natural Language Processing. These drug indications are used to reduce the rate of false positives by identifying medical terms that do not correspond to ADRs.</b:BIBTEX_Abstract>
+        <b:Tag>sider</b:Tag>
+        <b:URL>http://nar.oxfordjournals.org/content/early/2015/10/19/nar.gkv1075.abstract</b:URL>
+        <b:DOI>10.1093/nar/gkv1075</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Kuhn</b:Last>
+                        <b:First>Michael</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Letunic</b:Last>
+                        <b:First>Ivica</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Jensen</b:Last>
+                        <b:Middle>Juhl</b:Middle>
+                        <b:First>Lars</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bork</b:Last>
+                        <b:First>Peer</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Nucleic Acids Research</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019 (accessed February 9, 2020)</b:Year>
+        <b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+        <b:Comments>\url{https://github.com/nacnudus/unpivotr}</b:Comments>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Unpivotr: Unpivot Complex and Irregular Data Layouts</b:Title>
+        <b:Tag>unpivotr</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Garmonsway</b:Last>
+                        <b:First>Duncan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018 (accessed February 9, 2020)</b:Year>
+        <b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+        <b:Comments>\url{https://github.com/sensiblecodeio/databaker}</b:Comments>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Databaker</b:Title>
+        <b:Tag>databaker</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Company</b:Last>
+                        <b:Middle>Sensible Code</b:Middle>
+                        <b:First>The</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020 (accessed February 9, 2020)</b:Year>
+        <b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+        <b:Comments>\url{http://systematicreviewtools.com/index.php}</b:Comments>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Systematic Review Tools</b:Title>
+        <b:Tag>systematicReviewTools</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Marshall</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sutton</b:Last>
+                        <b:First>Anthea</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:Volume>35</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Population Adjustment Methods for Indirect Comparisons: A Review of National Institute for Health and Care Excellence Technology Appraisals</b:Title>
+        <b:Tag>phillippo_dias_elsada_ades_welton_2019</b:Tag>
+        <b:Publisher>Cambridge University Press</b:Publisher>
+        <b:DOI>10.1017/S0266462319000333</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Phillippo</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dias</b:Last>
+                        <b:First>Sofia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Elsada</b:Last>
+                        <b:First>Ahmed</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ades</b:Last>
+                        <b:Middle>E.</b:Middle>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Welton</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Nicky</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>221–228</b:Pages>
+        <b:JournalName>International Journal of Technology Assessment in Health Care</b:JournalName>
+        <b:Number>3</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:Volume>41</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Bio2RDF: Towards a Mashup to Build Bioinformatics Knowledge Systems</b:Title>
+        <b:Tag>Belleau:2008</b:Tag>
+        <b:Publisher>Elsevier Science</b:Publisher>
+        <b:BIBTEX_KeyWords>Bioinformatics database, Knowledge integration, Mashup, Ontology, Semantic web</b:BIBTEX_KeyWords>
+        <b:URL>http://dx.doi.org/10.1016/j.jbi.2008.03.004</b:URL>
+        <b:DOI>10.1016/j.jbi.2008.03.004</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Belleau</b:Last>
+                        <b:First>François</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nolin</b:Last>
+                        <b:First>Marc-Alexandre</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Tourigny</b:Last>
+                        <b:First>Nicole</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rigault</b:Last>
+                        <b:First>Philippe</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Morissette</b:Last>
+                        <b:First>Jean</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>706–716</b:Pages>
+        <b:Month>10</b:Month>
+        <b:JournalName>J. of Biomedical Informatics</b:JournalName>
+        <b:Number>5</b:Number>
+        <b:StandardNumber> ISSN: 1532-0464</b:StandardNumber>
+        <b:City>San</b:City>
+        <b:StateProvince>Diego</b:StateProvince>
+        <b:CountryRegion>USA</b:CountryRegion>
+    </b:Source>
+    <b:Source>
+        <b:Year>2006</b:Year>
+        <b:Volume>34</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>DrugBank: a comprehensive resource for in silico drug discovery and exploration.</b:Title>
+        <b:Tag>drugbank</b:Tag>
+        <b:URL>http://dblp.uni-trier.de/db/journals/nar/nar34.html#WishartKGSHSCW06</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Wishart</b:Last>
+                        <b:Middle>S.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Knox</b:Last>
+                        <b:First>Craig</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Guo</b:Last>
+                        <b:First>Anchi</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Shrivastava</b:Last>
+                        <b:First>Savita</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hassanali</b:Last>
+                        <b:First>Murtaza</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Stothard</b:Last>
+                        <b:First>Paul</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Chang</b:Last>
+                        <b:First>Zhan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Woolsey</b:Last>
+                        <b:First>Jennifer</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>668-672</b:Pages>
+        <b:Month>2</b:Month>
+        <b:Day>2</b:Day>
+        <b:JournalName>Nucleic Acids Research</b:JournalName>
+        <b:Number>Database-Issue</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:Volume>17</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Representation of people with comorbidity and multimorbidity in clinical trials of novel drug therapies: an individual-level participant data analysis</b:Title>
+        <b:BIBTEX_Abstract>Clinicians are less likely to prescribe guideline-recommended treatments to people with multimorbidity than to people with a single condition. Doubts as to the applicability of clinical trials of drug treatments (the gold standard for evidence-based medicine) when people have co-existing diseases (comorbidity) may underlie this apparent reluctance. Therefore, for a range of index conditions, we measured the comorbidity among participants in clinical trials of novel drug therapies and compared this to the comorbidity among patients in the community.</b:BIBTEX_Abstract>
+        <b:Tag>Hanlon2019</b:Tag>
+        <b:URL>https://doi.org/10.1186/s12916-019-1427-1</b:URL>
+        <b:DOI>10.1186/s12916-019-1427-1</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hanlon</b:Last>
+                        <b:First>Peter</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hannigan</b:Last>
+                        <b:First>Laurie</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rodriguez-Perez</b:Last>
+                        <b:First>Jesus</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Fischbacher</b:Last>
+                        <b:First>Colin</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Welton</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Nicky</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dias</b:Last>
+                        <b:First>Sofia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mair</b:Last>
+                        <b:Middle>S.</b:Middle>
+                        <b:First>Frances</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Guthrie</b:Last>
+                        <b:First>Bruce</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wild</b:Last>
+                        <b:First>Sarah</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>McAllister</b:Last>
+                        <b:Middle>A.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>201</b:Pages>
+        <b:Month>11</b:Month>
+        <b:Day>12</b:Day>
+        <b:JournalName>BMC Medicine</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 1741-7015</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Semi-Supervised Information Retrieval System for Clinical Decision Support.</b:Title>
+        <b:Tag>gurulingappa2016semi</b:Tag>
+        <b:BookTitle>TREC</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gurulingappa</b:Last>
+                        <b:First>Harsha</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Toldo</b:Last>
+                        <b:First>Luca</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schepers</b:Last>
+                        <b:First>Claudia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bauer</b:Last>
+                        <b:First>Alexander</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Megaro</b:Last>
+                        <b:First>Gerard</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>TREC</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2010</b:Year>
+        <b:Volume>17</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>An overview of MetaMap: historical perspective and recent advances</b:Title>
+        <b:BIBTEX_Abstract>MetaMap is a widely available program providing access to the concepts in the unified medical language system (UMLS) Metathesaurus from biomedical text. This study reports on MetaMap's evolution over more than a decade, concentrating on those features arising out of the research needs of the biomedical informatics community both within and outside of the National Library of Medicine. Such features include the detection of author-defined acronyms/abbreviations, the ability to browse the Metathesaurus for concepts even tenuously related to input text, the detection of negation in situations in which the polarity of predications is important, word sense disambiguation (WSD), and various technical and algorithmic features. Near-term plans for MetaMap development include the incorporation of chemical name recognition and enhanced WSD.</b:BIBTEX_Abstract>
+        <b:Tag>10.1136/jamia.2009.002733</b:Tag>
+        <b:URL>https://doi.org/10.1136/jamia.2009.002733</b:URL>
+        <b:DOI>10.1136/jamia.2009.002733</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Aronson</b:Last>
+                        <b:Middle>R.</b:Middle>
+                        <b:First>Alan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lang</b:Last>
+                        <b:First>François-Michel</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>229-236</b:Pages>
+        <b:Month>5</b:Month>
+        <b:JournalName>Journal of the American Medical Informatics Association</b:JournalName>
+        <b:Number>3</b:Number>
+        <b:StandardNumber> ISSN: 1067-5027</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2011</b:Year>
+        <b:Volume>154</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomized trials</b:Title>
+        <b:Tag>bian2011consort</b:Tag>
+        <b:Publisher>American College of Physicians</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bian</b:Last>
+                        <b:First>Zhao-xiang</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Shang</b:Last>
+                        <b:First>Hong-cai</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>290–291</b:Pages>
+        <b:JournalName>Annals of internal medicine</b:JournalName>
+        <b:Number>4</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016 (accessed February 9, 2020)</b:Year>
+        <b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+        <b:Comments>\url{https://www.nlm.nih.gov/research/umls/META3_current_semantic_types.html}</b:Comments>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>NLM: Semantic Types</b:Title>
+        <b:Tag>semtypes</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>NLM</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2014</b:Year>
+        <b:Volume>3</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Systematic review automation technologies</b:Title>
+        <b:BIBTEX_Abstract>Systematic reviews, a cornerstone of evidence-based medicine, are not produced quickly enough to support clinical practice. The cost of production, availability of the requisite expertise and timeliness are often quoted as major contributors for the delay. This detailed survey of the state of the art of information systems designed to support or automate individual tasks in the systematic review, and in particular systematic reviews of randomized controlled clinical trials, reveals trends that see the convergence of several parallel research projects.</b:BIBTEX_Abstract>
+        <b:Tag>Tsafnat2014</b:Tag>
+        <b:URL>https://doi.org/10.1186/2046-4053-3-74</b:URL>
+        <b:DOI>10.1186/2046-4053-3-74</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tsafnat</b:Last>
+                        <b:First>Guy</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Glasziou</b:Last>
+                        <b:First>Paul</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Choong</b:Last>
+                        <b:Middle>Keen</b:Middle>
+                        <b:First>Miew</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dunn</b:Last>
+                        <b:First>Adam</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Galgani</b:Last>
+                        <b:First>Filippo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Coiera</b:Last>
+                        <b:First>Enrico</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>74</b:Pages>
+        <b:Month>7</b:Month>
+        <b:Day>09</b:Day>
+        <b:JournalName>Systematic Reviews</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 2046-4053</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2007</b:Year>
+        <b:Volume>40</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>NCI Thesaurus: A Semantic Model Integrating Cancer-related Clinical and Molecular Information</b:Title>
+        <b:Tag>Sioutos:2007</b:Tag>
+        <b:Publisher>Elsevier Science</b:Publisher>
+        <b:BIBTEX_KeyWords>Biomedical vocabulary, Cancer research, Cancer terminology, Disease model, Ontology development</b:BIBTEX_KeyWords>
+        <b:URL>http://dx.doi.org/10.1016/j.jbi.2006.02.013</b:URL>
+        <b:DOI>10.1016/j.jbi.2006.02.013</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sioutos</b:Last>
+                        <b:First>Nicholas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Coronado</b:Last>
+                        <b:Middle>de</b:Middle>
+                        <b:First>Sherri</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Haber</b:Last>
+                        <b:Middle>W.</b:Middle>
+                        <b:First>Margaret</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hartel</b:Last>
+                        <b:Middle>W.</b:Middle>
+                        <b:First>Frank</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Shaiu</b:Last>
+                        <b:First>Wen-Ling</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wright</b:Last>
+                        <b:Middle>W.</b:Middle>
+                        <b:First>Lawrence</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>30–43</b:Pages>
+        <b:Month>2</b:Month>
+        <b:JournalName>J. of Biomedical Informatics</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 1532-0464</b:StandardNumber>
+        <b:City>San</b:City>
+        <b:StateProvince>Diego</b:StateProvince>
+        <b:CountryRegion>USA</b:CountryRegion>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Combining MeSH Thesaurus with UMLS in pseudo relevance feedback to improve biomedical information retrieval</b:Title>
+        <b:Tag>umlsPRFretrieval</b:Tag>
+        <b:BookTitle>2016 IEEE International Conference on Knowledge Engineering and Applications (ICKEA)</b:BookTitle>
+        <b:BIBTEX_KeyWords>bioinformatics;medical computing;relevance feedback;thesauri;feedback document annotation;biomedical information retrieval;pseudorelevance feedback;UMLS;MeSH thesaurus;Unified modeling language;Radio frequency;biomedical information retrieval;MeSH;pseudo relevance feedback;UMLS</b:BIBTEX_KeyWords>
+        <b:DOI>10.1109/ICKEA.2016.7802994</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Zhang</b:Last>
+                        <b:First>Y.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Srimani</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wang</b:Last>
+                        <b:Middle>Z.</b:Middle>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>67-71</b:Pages>
+        <b:Month>9</b:Month>
+        <b:StandardNumber> ISSN: null</b:StandardNumber>
+        <b:ConferenceName>2016 IEEE International Conference on Knowledge Engineering and Applications (ICKEA)</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:Volume>350</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Short term exposure to air pollution and stroke: systematic review and meta-analysis</b:Title>
+        <b:Tag>shah2015short</b:Tag>
+        <b:Publisher>British Medical Journal Publishing Group</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Shah</b:Last>
+                        <b:Middle>S. V.</b:Middle>
+                        <b:First>Anoop</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lee</b:Last>
+                        <b:Middle>Ken</b:Middle>
+                        <b:First>Kuan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>McAllister</b:Last>
+                        <b:Middle>A.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hunter</b:Last>
+                        <b:First>Amanda</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nair</b:Last>
+                        <b:First>Harish</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Whiteley</b:Last>
+                        <b:First>William</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Langrish</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>Jeremy</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Newby</b:Last>
+                        <b:Middle>E.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mills</b:Last>
+                        <b:Middle>L.</b:Middle>
+                        <b:First>Nicholas</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>h1295</b:Pages>
+        <b:JournalName>bmj</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors</b:Title>
+        <b:Tag>urbano2019statistical</b:Tag>
+        <b:BookTitle>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Urbano</b:Last>
+                        <b:First>Julián</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lima</b:Last>
+                        <b:First>Harlley</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hanjalic</b:Last>
+                        <b:First>Alan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>505–514</b:Pages>
+        <b:ConferenceName>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2014</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:Comments>[updated 2014 February 25; cited 2016 January 4th]</b:Comments>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>RDF 1.1 Primer [Internet]</b:Title>
+        <b:Tag>rdf-1.1-primer</b:Tag>
+        <b:Publisher>World Wide Web Consortium</b:Publisher>
+        <b:Institution>World Wide Web Consortium</b:Institution>
+        <b:URL>http://www.w3.org/TR/rdf11-primer/</b:URL>
+        <b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Schreiber</b:Last>
+                        <b:First>Guus</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Raimond</b:Last>
+                        <b:First>Yves</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Month>2</b:Month>
+        <b:PublicationTitle>RDF 1.1 Primer [Internet]</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:Comments>[updated 2015 December 18; cited 2016 January 4th]</b:Comments>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Guidelines for ATC classification and DDD assignment, 2014 [Internet]</b:Title>
+        <b:Tag>atc-guidelines</b:Tag>
+        <b:Publisher>WHO Collaborating Centre for Drug Statistics Methodology</b:Publisher>
+        <b:BIBTEX_KeyWords>drug-classification</b:BIBTEX_KeyWords>
+        <b:Author/>
+        <b:City>Oslo</b:City>
+        <b:PublicationTitle>Guidelines for ATC classification and DDD assignment, 2014 [Internet]</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:Volume>21</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>New evidence pyramid</b:Title>
+        <b:Tag>Murad125</b:Tag>
+        <b:Publisher>Royal Society of Medicine</b:Publisher>
+        <b:URL>https://ebm.bmj.com/content/21/4/125</b:URL>
+        <b:DOI>10.1136/ebmed-2016-110401</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Murad</b:Last>
+                        <b:Middle>Hassan</b:Middle>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Asi</b:Last>
+                        <b:First>Noor</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Alsawas</b:Last>
+                        <b:First>Mouaz</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Alahdab</b:Last>
+                        <b:First>Fares</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>125–127</b:Pages>
+        <b:JournalName>BMJ Evidence-Based Medicine</b:JournalName>
+        <b:Number>4</b:Number>
+        <b:StandardNumber> ISSN: 1356-5524</b:StandardNumber>
+    </b:Source>
+</b:Sources>
